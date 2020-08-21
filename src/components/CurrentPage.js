@@ -13,6 +13,7 @@ class CurrentPage extends Component {
             <div>
                 {/* <p>{this.props.data.currentCity}</p> */}
                 <p>HELLO FROM CURRENTPAGE.JS</p>
+                <button>Prev</button>
                 <button>Next</button>
                 
             </div>

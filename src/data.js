@@ -6,7 +6,7 @@ const data = [
     country: "Marshall Islands",
     employer: "Twinder",
     title: "Physical Therapy Assistant",
-    favoriteMovies: [ß
+    favoriteMovies: [
       "That Night in Varennes (Nuit de Varennes, La)",
       "Spy(ies) (Espion(s))",
       "Klip (Clip)"

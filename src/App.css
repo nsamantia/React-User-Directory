@@ -25,6 +25,17 @@ body{
   background-color: rgb(49, 50, 50);
 }
 
+.Page {
+  width: 60vw;
+  height: 60vh;
+  background-color: floralwhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom:60px;
+  margin-left: 20vw;
+}
+
 
 
 
