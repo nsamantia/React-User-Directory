@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.Header{
+  background-color: cornflowerblue;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding: 15px
+}
+
+
+
+
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(49, 50, 50);
+}
+
+
+
+
+
